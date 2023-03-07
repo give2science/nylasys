@@ -2,14 +2,16 @@
 
 Boilerplate for nylasys counterpsyapp
 
-Recommended setup: 
+To check it out:
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+[main branch deployment](https://main.d3av7fnt48fh4m.amplifyapp.com/) 
 
 ## To install:
 
-first cone the repo: 
-`https://github.com/give2science/nylasys`
+First clone the repo: 
+`git clone https://github.com/give2science/nylasys`
 
-**Open a terminal, go to the nylasys folder and run `yarn && yarn install`, to start dev evironment then run `yarn dev`. Enjoy? **
+**Open a terminal, go to the folder 'cd nylasys' and run `yarn && yarn install`, to start dev evironment then run `yarn dev`. **
+
+Enjoy xoxo.
 
