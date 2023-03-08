@@ -21,6 +21,7 @@
     "vite": "^4.1.0"
   },
   "dependencies": {
+    "@aws-amplify/ui": "^5.5.6",
     "vtop": "^0.6.1"
   }
 }
