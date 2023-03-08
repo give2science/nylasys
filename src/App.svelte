@@ -117,7 +117,7 @@
 			<Dropdown nav inNavbar>
 			  <DropdownToggle nav caret>Technology🚀</DropdownToggle>
 			  <DropdownMenu end>
-				<DropdownItem href="https://github.com/openai/whisper">Whisper</DropdownItem>
+				<DropdownItem href="https://github.com/openai/whisper">svelte-lightweight-chartssvelte-lightweight-chartssvelte-lightweight-chartssvelte-lightweight-chartssvelte-lasda sda sdasd asd ightweight-chartssvelte-lightweight-chartssvelte-lightweight-chartssvelte-lightweight-chartssvelte-lightweight-charts</DropdownItem>
 				<DropdownItem href="https://github.com/dexie/Dexie.js">Dexie.js</DropdownItem>
 				<DropdownItem divider />
 				<DropdownItem href="https://github.com/pyscript/pyscript">Pyscript</DropdownItem>
