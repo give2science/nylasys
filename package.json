@@ -12,11 +12,15 @@
     "@sveltejs/vite-plugin-svelte": "^2.0.2",
     "bootstrap": "^5.2.3",
     "dexie": "^3.2.2",
-    "lightweight-charts": "^3.8.0",
+    "lightweight-charts": "^4",
     "simple-svelte-autocomplete": "^2.4.0",
     "svelte": "^3.55.1",
-    "svelte-lightweight-charts": "^1.6.3",
+    "svelte-lightweight-charts": "^2",
+    "svelte-meta-tags": "^2.6.5",
     "sveltestrap": "^5.9.0",
     "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "vtop": "^0.6.1"
   }
 }

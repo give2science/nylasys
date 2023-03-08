@@ -19,6 +19,8 @@
 	import 'bootstrap/dist/css/bootstrap.min.css'
 	import type { Table } from "dexie";
 	import { Chart, LineSeries } from "svelte-lightweight-charts";
+	import { MetaTags } from 'svelte-meta-tags';
+	
 
 	let isOpen = false;
 
@@ -101,6 +103,7 @@
 
 <main>
 	<Navbar color="dark" dark fixed="top" expand="md" class="navbary" >
+		<MetaTags title="nylasys" description="magic analysis" />
 		<NavbarBrand href="/">💫nylasys</NavbarBrand>
 		<NavbarToggler on:click={() => (isOpen = !isOpen)} />
 		<Collapse {isOpen} navbar expand="md" on:update={handleUpdate}>
